@@ -1,0 +1,11 @@
+{
+  "name": "od-provider",
+  "version": "1.0.0",
+  "description": "Used to extract open office documents \"content.xml\" and \"styles.xml\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
