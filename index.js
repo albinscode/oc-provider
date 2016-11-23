@@ -7,6 +7,7 @@
 var fs = require('fs');
 var JSZip = require('jszip');
 var log = require('npmlog');
+var Promise = require('promise');
 
 /**
  * Gets the ODS/ODT content and styles as a plain string.

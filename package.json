@@ -1,6 +1,6 @@
 {
   "name": "od-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Used to extract open office documents \"content.xml\" and \"styles.xml\"",
   "main": "index.js",
   "scripts": {
